@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	02 00
+Plan: Follow the given instructions and then implement all the functions in the given order and then test them. 
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	04 00
+Observations: Was stuck at the find_any_ptr function for an hour because I did not know how to use pointers in the right way. I had to debug by printing the values again and again to check what was going on. I think we really need a good debugger because writing print statements and printing them is time consuming. After printing I got to know that I was using the pointers in wrong way as it can be seen in my version1 of the code that I pushed to the git. But finally after reviewing the presentations again and again I found the right answer. Once I got the logic then it was quite easy. 
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

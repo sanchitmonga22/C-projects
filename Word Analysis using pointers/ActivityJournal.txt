@@ -1,0 +1,124 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Sanchit Monga
+
+================================================================
+process_word
+Start
+Estimated Time	01 00
+Plan:Follow the given instructions and then use the functions from the project part 1 and perform the operations
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 30
+Observations:Used the functions from the previous part and processed the word
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_first_word
+Start
+Estimated Time	01 00
+Plan: TO understand the structure of the p_list function and then returning the word_entry struct at the front of the list
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00
+Observations: Had to visit the previous function because of which I could not pass all the tests in this function. Although I passed all the tests in previous function alone but there was a problem in the implementation because of  which I could not pass all the tests in the get_first_word function.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_next_word
+Start
+Estimated Time	00 30
+Plan: To understand and follow the same procedure as the previous function and then try to complete the given task.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 15
+Observations: Returned the current pointer value in the list and then moved the pointer forward. As I am moving forward I think it is becoming more and more easy.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_last_word
+Start
+Estimated Time	00 15
+Plan:TO follow the instructions and implement the given function and pass all the tests
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 05
+Observations:Was same as the get first word and used the same implemementation strategy.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_prev_word
+Start
+Estimated Time	00 30
+Plan:To follow the instructions and implement the code by using the reference as the get_next_word
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	03 00
+Observations:Had to fix get_next_word which was causing problems in this function and took me a lot of time to understand what was going on in the test functions and then tried interpreting them and then I was able to solve the problems.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+read_file through test 56
+Start
+Estimated Time	01 00
+Plan: To follow the instructions and then try passing all the tests.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	40 00
+Observations: I was stuck on this function for a while and could not complete it. I thought that the problem was in the read_file function. Then i went back to previous functions and I revised them. I could not figure out the problem for days. But finally I found that the problem was in the create_node function of the part1. I was not assigning memory to the unique_word while creating a new_node.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+read_file MLK_dream_excerpt only
+Start
+Estimated Time	02 00
+Plan:To follow the instructions and then read the given file.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	05 00
+Observations:It took me a lot of time to figure out because my linked_list part1 of the project was not working properly and I could not figure out. But at last I made changes to the program and it worked.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+write_unique_word_list_to_csv_file
+Start
+Estimated Time	02 00
+Plan:Follow the instructions, use other helper functions and then write into the file.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00
+Observations:Added and wrote all the words to the file.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Add four unit tests to the unit_tests_student.c file
+Start
+Estimated Time	02 00
+Plan:To follow the instrucitons and then go through the given sample tests to get an idea.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 30
+Observations: Was able to implement the test functions as it was made easy by the already given test functions.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

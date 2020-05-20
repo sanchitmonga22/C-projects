@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	00 40
+Plan: I started by using the loops and then going through each character of the loop and count the number of words, characters and lines.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 05 
+Observations: I had problem in counting the words at first because I did not know how not to include the words that have more than one space in between, or a tab or a new line between them, because I did not know how to get to the next character without disturbing the state of the text file input. But I thought and then I found a way to count the number of extra words by keeping track of the previous character, which I think is sometimes hard to think. But
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

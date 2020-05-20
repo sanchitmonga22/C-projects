@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	07 00
+Plan:Understand the pointers and go through the slides. Implement and test functions one by one.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	14 00
+Observations: Was stuck on filter_any_ptr for 8 hours. Took almost double the time than expected. I tried doing the function in many ways but in the end it worked out. The last two funcitons were the most difficult. To implement the filter_substr function I had to go through the code of last assignment (Find.c) and used the code of find_substr to count the number of substring and assign the malloc size according to that. This assignment was the most challenging assignment till date.  
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

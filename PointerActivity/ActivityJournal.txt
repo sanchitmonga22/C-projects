@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name: Sanchit Monga
+
+================================================================
+Start
+Estimated Time	01 30
+Plan:Follow the instructions, read the question carefully and then user the pointers knowledge to perform operations on the provided input. Test the given inputs along with some of my own inputs.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	02 30
+Observations: Did not know how to make a makefile because of which I couldnt test my program. So had to look for the examples online and already in the previous assignments and then finally make it. After making a few compilations error and then I could not print the output in the given format. But finally, i did it and it took a lot of time.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

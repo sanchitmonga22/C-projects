@@ -1,0 +1,32 @@
+SWEN-250 Activity Reflection
+
+Name: Sanchit Monga
+
+================================================================
+Implement code to pass all unit tests
+
+Estimated Time	01 30
+Plan:Follow the instructions and use the properties of the structs
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 20
+Observations:Had problems in the loops but fixed almost all of them. Had problem in understanding the question and what we were required to do. It was not clearly mentioned about the csv line structure and the array contained in the csv_line structure
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+
+================================================================
+Test correct operation from the command line
+
+Estimated Time	00 40
+Plan:Again same, follow the instructions and then compare the outputs.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations:Still cannot figure out the problem, as there is still one test case that is not passing.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

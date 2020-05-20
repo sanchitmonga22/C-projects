@@ -1,0 +1,29 @@
+SWEN-250 Activity Reflection
+
+Name:Sanchit Monga
+
+================================================================
+Part 1
+Estimated Time	 00 15
+Plan: Following the given instructions and take the standard input the same way we did in the previous homework.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time      00 20
+Observations: Still wondering why the string keeps printing itself twice. The question looked confusing as it does not say clearly that we have to take the standard input, but once you understand it then it is easy.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Part 2
+Estimated Time    00 30
+Plan: Follow the instructions and implement the program step by step. Implement the copy function and changing the main function.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 30
+Observations:The first problem i encountered was while I was implementing the copy function because I did not know for much length do I need to run the for loop because I did not know the size of the array. But then I used the special character, end of line:'\0' to successfully implement it. Then I made a mstake of not initializing the character array (lonest_line) to null so I was lost and I tried debugging the program but I could not figure it out. But at last I initialized it to empty string and it worked.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
