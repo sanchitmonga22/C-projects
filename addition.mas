@@ -1,0 +1,13 @@
+﻿	ORG 100 /Starting from 100
+    GetNum, Input / taking the input from the user
+    Store num	/ storing the user input into num
+    Load num	/ storing the value of num into AC 
+    GetNum2, Input	/ taking the second input from the user
+    store num1	/ storing the user input into num
+    CalcSum, Add num	/ Adding the value of num into num1
+    Output	/ output of the code
+num, Hex 101 / memory addresses containing the values
+num1, Hex 102
+	END
+    
+    
